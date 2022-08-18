@@ -5,14 +5,17 @@
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
+  -webkit- appearance: none; 
 }
  
 .background-1 {
   background-image: url(sea.png);
+  -webkit- appearance: none; 
 }
  
 .background-2 {
   background-image: url(photo.JPG);
+  -webkit- appearance: none; 
 }
 
  
