@@ -1,0 +1,18 @@
+ 
+ 
+.fixed-background {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+ 
+.background-1 {
+  background-image: url(sea.png);
+}
+ 
+.background-2 {
+  background-image: url(photo.JPG);
+}
+
+ 
